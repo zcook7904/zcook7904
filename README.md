@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @zcook7904
 - 👀 I’m interested in mechanical engineering + programming
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on opensource energy software or ML projects
 - 📫 How to reach me: zavencook@gmail.com
 
 <!---
