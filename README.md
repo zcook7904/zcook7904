@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zcook7904
+- 👋 Hi, I’m Zaven
 - 👀 I’m interested in mechanical engineering + programming
 - 🌱 I’m currently learning python
 - 📫 How to reach me: zavencook@gmail.com
